@@ -1,0 +1,22 @@
+/bin/
+/build/
+/temp/
+/vendor/
+/composer.phar
+
+# temp files etc
+.DS_Store
+*.lock
+*.cache
+*~
+.Spotlight-V100
+.Trashes
+Desktop.ini
+$RECYCLE.BIN/
+
+# thumbnails
+._*
+thumbs.db
+
+# netbeans
+nbproject/private
