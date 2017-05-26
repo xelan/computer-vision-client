@@ -1,5 +1,6 @@
 {
     "name": "andaris/computer-vision-client",
+    "description": "Simple PHP Client for the Microsoft Computer Vision API",
     "license": "BSD-3-Clause",
     "type": "library",
     "authors": [
