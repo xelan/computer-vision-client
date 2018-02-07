@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/xelan/computer-vision-client.svg?branch=master)](https://travis-ci.org/xelan/computer-vision-client) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/xelan/computer-vision-client/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/xelan/computer-vision-client/?branch=master) [![Code Coverage](https://scrutinizer-ci.com/g/xelan/computer-vision-client/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/xelan/computer-vision-client/?branch=master)
+
 # Computer Vision API Client
 
 This library provides a simple client for Microsoft's [Computer Vision API](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/)
